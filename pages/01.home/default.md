@@ -9,3 +9,5 @@ I haven't been quite so excited to roll out a platform in a while. As a Wordpres
 Anyhow, the site is going to be a mix of things. Dropping off of Facebook has been very healthy, and now it's time to get back to creating content for me, not for someone else. This is my playground, and I'm going to talk about tech things, golf things, and also New Zealand things. It's a beautiful place, so I'm looking forward to showing it off.
 
 Thanks, and enjoy the content.
+
+!!!! This is now being synced through GitHub.
