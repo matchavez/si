@@ -1,5 +1,12 @@
 ---
 title: 'MAMP Pro "Bug"'
+published: true
+date: '14:57 21-05-2018'
+taxonomy:
+    category:
+        - tech
+    tag:
+        - webdev
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
