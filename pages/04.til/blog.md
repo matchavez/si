@@ -1,5 +1,5 @@
 ---
-title: 'Today I Learned'
+title: TIL
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
