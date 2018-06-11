@@ -1,1 +1,3 @@
-# next
+---
+title: 'next'
+---
