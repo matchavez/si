@@ -1,5 +1,6 @@
 ---
 title: 'Documentation Tools'
+published: true
 ---
 
 !! Warning - This has some work needed to make corrections and update what I've learned. It also contains errors, but these older notes help me with a starting point to rewrite this section.
