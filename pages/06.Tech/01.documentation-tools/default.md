@@ -3,8 +3,6 @@ title: 'Documentation Tools'
 published: true
 ---
 
-!! Warning - This has some work needed to make corrections and update what I've learned. It also contains errors, but these older notes help me with a starting point to rewrite this section.
-
 # Preamble & Objective:
 
 Given the many options for putting word-to-page, documentation is often a difficult by-product of complex projects. In software, it is often the most cast-off segment of work that has some of the most time-constrained effort. The traditional cycle of define, create, test, then document is never optimal. Add on top the need to iterate using tools that are designed for the static document, particulary the "word processor", and you end up in a cycle that keeps documentation away from those creating and playing a game of "telephone" with the Technical Writing team.
@@ -26,10 +24,6 @@ Ya, really. $0.
 The first question of every project is to decide what you’re going to plumb together and create. It took some maturisation, but when we got there, it was pretty simple.
 
 ---
-# Sphinx Install with Markdown
-
-##### These instructions will walk through a basic install of the Sphinx documentation system for a local setup with the accompanying themes and configurations.
-
 # Sphinx Install with Markdown
 
 ##### These instructions will walk through a basic install of the Sphinx documentation system for a local setup with the accompanying themes and configurations.
