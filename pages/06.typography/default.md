@@ -1,6 +1,8 @@
 ---
 title: Typography
-published: false
+published: true
+routable: false
+cache_enable: false
 github: true
 ---
 
