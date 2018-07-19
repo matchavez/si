@@ -1,6 +1,8 @@
 ---
 title: Typography
 published: false
+routable: true
+visible: false
 github: true
 ---
 
