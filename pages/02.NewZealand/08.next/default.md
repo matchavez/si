@@ -1,5 +1,6 @@
 ---
-title: 'next'
+title: 'The Work'
+published: false
 ---
- 
-This was pushed by Working Copy.
+
+I imagine that anyone who contemplates leaving their home country probably has two thoughts at some point. 
