@@ -1,0 +1,30 @@
+enabled: true
+text_var: 'Custom Text added by the **Git Sync** plugin (disable plugin to remove)'
+folders:
+  - pages
+  - themes
+  - plugins
+  - config
+  - data
+repository: 'https://github.com/matchavez/si'
+user: matchavez
+webhook: /_git-sync
+branch: master
+remote:
+  name: origin
+  branch: master
+git:
+  author: gituser
+  name: GitSync
+  email: git-sync@trilby.media
+  bin: git
+logging: false
+sync:
+  on_save: true
+  on_delete: true
+  on_media: true
+  cron_enable: false
+  cron_at: '0 12,23 * * *'
+webhook_enabled: '0'
+webhook_secret: fa152d7577e550a6de2fe46dcf42435e92325cf00bf4a401
+password: gitsync-def502004ceb05a7e1b9d4ad4242c727b1384bcb57b54133b912bb7b43ae275ea7cbca599e9308a54ed998cef7d9e4a911a1b81b610c24f377811297485e83e5f011cb100a1ed78ee5251ca9b9ace38ff9215a6e1108585dab7de777403c1756c66a1b5a14318c7c4eb1c3f6e9b1d28d4831a68f458486e2c3069165
