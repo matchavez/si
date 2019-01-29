@@ -1,6 +1,6 @@
 ---
 title: 'The Work'
-published: false
+published: true
 ---
 
 I imagine that anyone who contemplates leaving their home country probably has two thoughts at some point. First, it's "yes, I am going to do this. I am committed." Then right after, it's, "What do I have to do to make this a reality?"
